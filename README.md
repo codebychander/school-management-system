@@ -124,9 +124,3 @@ With a clean UI and responsive design, Smart Edu delivers a seamless experience 
 
 ---
 
-# 🚀 Installation Guide
-
-## 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/your-username/smart-education.git
