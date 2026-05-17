@@ -77,6 +77,5 @@ This project is designed with a user-friendly interface and mobile responsive da
 # 📸 Project Screenshots
 
 ## 🖥️ Dashboard Preview
+<img src="https://sofypie.com/uploads/portfolio/school-website.png" />
 
-```txt
-Add your dashboard screenshot here
